@@ -259,10 +259,16 @@
 		"collections": "fluidic"
 	},
 	{
-		"name": "shape015",
+		"name": "minimal009",
 		"author": "Emon Saqibh",
 		"url": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
-		"thumbnail": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
-		"collections": "fluidic,amoled"
+		"collections": "minimal"
+	},
+	{
+		"name": "fluidic008",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/m0q15Yq/minimal-girl-hair-01-01.png",
+		"thumbnail": "https://i.ibb.co/m0q15Yq/minimal-girl-hair-01-01.png",
+		"collections": "minimal"
 	}
 ]
