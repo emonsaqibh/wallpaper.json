@@ -1,115 +1,93 @@
 [
       {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://i.ibb.co/LgzWMTP/ios03-light-01.png",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "minimal001",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/P9GQpGh/colorwave-purple-01.png",
+		"thumbnail": "https://i.ibb.co/P9GQpGh/colorwave-purple-01.png",
+		"collections": "minimal"
 	},
       {
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
+		"name": "minimal002",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/Cshnfqh/colorwave-purple-dark-01.png",
+		"collections": "amoled,minimal"
 	},
 	{
-		"name": "ShotB",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": false
+		"name": "minimal003",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/nmg93HN/minimal-magenda-party-02-01.png",
+		"collections": "minimal",
+		"downloadable": true
 	},
 	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/D8Hjnrb/minimal-magenda-party-dark-01.png",
+		"name": "minimal004",
+		"copyright": "Credits to Reaper Design",
+		"collections": "amoled,minimal"
 	},
 	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
+		"name": "minimal005",
+		"author": "Emon	 Saqibh",
+		"url": "https://i.ibb.co/WV5kxYR/minimal-midcloud-YBG-01.png",
+		"thumbnail": "https://i.ibb.co/WV5kxYR/minimal-midcloud-YBG-01.png",
+		"collections": "minimal"
 	},
 	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
+		"name": "minimal006",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/phWqMnF/minimal-midcloud-Y-Black-01.png",
+		"thumbnail": "https://i.ibb.co/phWqMnF/minimal-midcloud-Y-Black-01.png",
+		"collections": "amoled,minimal"
 	},
 	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
+		"name": "minimal007",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/FKPcQbw/minimal-midcloud-OBG-01.png",
+		"thumbnail": "https://i.ibb.co/FKPcQbw/minimal-midcloud-OBG-01.png",
+		"copyright": "Reaper Design",
+		"collections": "minimal"
 	},
 	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
+		"name": "minimal008",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/xfmm1Ks/minimal-midcloud-O-Black-01.png",
+		"thumbnail": "https://i.ibb.co/xfmm1Ks/minimal-midcloud-O-Black-01.png",
+		"collections": "amoled,minimal"
 	},
 	{
-		"name": "Wallsplash 5",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"name": "scenery001",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/NyLrWgw/winter-aura-01.png",
+		"thumbnail": "https://i.ibb.co/NyLrWgw/winter-aura-01.png",
+		"collections": "scenery"
 	},
 	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
+		"name": "scenery002",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/2j6VZQT/desert-dusk-01.png",
+		"thumbnail": "https://i.ibb.co/2j6VZQT/desert-dusk-01.png",
+		"collections": "scenery"
 	},
 	{
-		"name": "Wallsplash 7",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-		"thumbnail": "https://via.placeholder.com/500",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
+		"name": "outline001",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/Jmmdwt1/outline-coffee-01.png",
+		"thumbnail": "https://i.ibb.co/Jmmdwt1/outline-coffee-01.png",
+		"collections": "outline"
 	},
 	{
-		"name": "Wallsplash 8",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "food"
+		"name": "outline003",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/wQW7vWJ/outline-pacman-yellow-01.png",
+		"thumbnail": "https://i.ibb.co/wQW7vWJ/outline-pacman-yellow-01.png",
+		"collections": "outline"
 	},
 	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "shape001",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
+		"thumbnail": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
+		"collections": "shapes"
 	}
 ]
