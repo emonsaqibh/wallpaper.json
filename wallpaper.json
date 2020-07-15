@@ -259,16 +259,30 @@
 		"collections": "fluidic"
 	},
 	{
-		"name": "minimal009",
+		"name": "shape015",
 		"author": "Emon Saqibh",
 		"url": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
+		"collections": "shapes"
+	},
+	{
+		"name": "minimal009",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/6J87PC3/minimal-girl-hair-01.png",
+		"thumbnail": "https://i.ibb.co/6J87PC3/minimal-girl-hair-01.png",
 		"collections": "minimal"
 	},
 	{
-		"name": "fluidic008",
+		"name": "minimal010",
 		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/m0q15Yq/minimal-girl-hair-01-01.png",
-		"thumbnail": "https://i.ibb.co/m0q15Yq/minimal-girl-hair-01-01.png",
-		"collections": "fluidic"
-	}
+		"url": "https://i.ibb.co/k0RSCFQ/underwater-girl-blue-alt-01.png",
+		"thumbnail": "https://i.ibb.co/k0RSCFQ/underwater-girl-blue-alt-01.png",
+		"collections": "minimal"
+	},
+	
+		"name": "minimal011",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
+		"thumbnail": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
+		"collections": "minimal"
+	},
 ]
