@@ -84,125 +84,6 @@
 		"collections": "outline"
 	},
 	{
-		"name": "pattern001",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/qxZvMP6/ribbon03-01.png",
-		"thumbnail": "https://i.ibb.co/qxZvMP6/ribbon03-01.png",
-		"collections": "pattern"
-	},
-	{
-		"name": "pattern002",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/68JbNwd/ribbon-01-01.png",
-		"thumbnail": "https://i.ibb.co/68JbNwd/ribbon-01-01.png",
-		"collections": "pattern"
-	},
-	{
-		"name": "pattern003",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/jMPnw2Y/ribbon002-01.png",
-		"thumbnail": "https://i.ibb.co/jMPnw2Y/ribbon002-01.png",
-		"collections": "pattern"
-	},
-	{
-		"name": "shape002",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/xjfDxpL/half-circle-mint-01.png",
-		"thumbnail": "https://i.ibb.co/xjfDxpL/half-circle-mint-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape003",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/4MdbvxX/abstract002-01.png",
-		"thumbnail": "https://i.ibb.co/4MdbvxX/abstract002-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape004",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/sPtTmx7/abstract001-glow-01.png",
-		"thumbnail": "https://i.ibb.co/sPtTmx7/abstract001-glow-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape005",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/VvcjMDr/Circle-colors-01.png",
-		"thumbnail": "https://i.ibb.co/VvcjMDr/Circle-colors-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape006",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/zsZrH88/shapology06-01.png",
-		"thumbnail": "https://i.ibb.co/zsZrH88/shapology06-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape007",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/gJL2DrW/shapology05-bl-01.png",
-		"thumbnail": "https://i.ibb.co/gJL2DrW/shapology05-bl-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape008",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/QYp6VvD/shapology05-bg-01.png",
-		"thumbnail": "https://i.ibb.co/QYp6VvD/shapology05-bg-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape009",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/Yd04sNK/shapology04-01.png",
-		"thumbnail": "https://i.ibb.co/Yd04sNK/shapology04-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape010",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/Yd04sNK/shapology04-01.png",
-		"thumbnail": "https://i.ibb.co/Yd04sNK/shapology04-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape011",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/WF4g7sS/shapology04-dark-01.png",
-		"thumbnail": "https://i.ibb.co/WF4g7sS/shapology04-dark-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape012",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/8Nk3DxW/shapology03-01.png",
-		"thumbnail": "https://i.ibb.co/8Nk3DxW/shapology03-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape013",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/wB3VvkH/shapology-01.png",
-		"thumbnail": "https://i.ibb.co/wB3VvkH/shapology-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape014",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/1vWK7xB/shapology02-01.png",
-		"thumbnail": "https://i.ibb.co/1vWK7xB/shapology02-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "shape001",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
-		"thumbnail": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
-		"collections": "shapes"
-	},
-	{
 		"name": "fluidic001",
 		"author": "Emon Saqibh",
 		"url": "https://i.ibb.co/mcqLtbJ/purple-murcury-01.png",
@@ -215,13 +96,6 @@
 		"url": "https://i.ibb.co/fxHbbg9/pebble-01-01.png",
 		"thumbnail": "https://i.ibb.co/fxHbbg9/pebble-01-01.png",
 		"collections": "fluidic"
-	},
-	{
-		"name": "fluidic003",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/x181npm/pebble-dark-01.png",
-		"thumbnail": "https://i.ibb.co/x181npm/pebble-dark-01.png",
-		"collections": "fluidic,amoled"
 	},
 	{
 		"name": "fluidic004",
@@ -262,6 +136,7 @@
 		"name": "shape015",
 		"author": "Emon Saqibh",
 		"url": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
+		"thumbnail": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
 		"collections": "shapes"
 	},
 	{
@@ -278,11 +153,18 @@
 		"thumbnail": "https://i.ibb.co/k0RSCFQ/underwater-girl-blue-alt-01.png",
 		"collections": "minimal"
 	},
-	
+	{
 		"name": "minimal011",
 		"author": "Emon Saqibh",
 		"url": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
 		"thumbnail": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
 		"collections": "minimal"
 	},
+	{
+		"name": "shape001",
+		"author": "Emon Saqibh",
+		"url": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
+		"thumbnail": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
+		"collections": "shapes"
+	}
 ]
