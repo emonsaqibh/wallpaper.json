@@ -1,170 +1,149 @@
 [
-      {
-		"name": "minimal001",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/P9GQpGh/colorwave-purple-01.png",
-		"thumbnail": "https://i.ibb.co/P9GQpGh/colorwave-purple-01.png",
-		"collections": "minimal"
-	},
-      {
-		"name": "minimal002",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/Cshnfqh/colorwave-purple-dark-01.png",
-		"collections": "amoled,minimal"
-	},
-	{
-		"name": "minimal003",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/nmg93HN/minimal-magenda-party-02-01.png",
-		"collections": "minimal",
-		"downloadable": true
-	},
-	{
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/D8Hjnrb/minimal-magenda-party-dark-01.png",
-		"name": "minimal004",
-		"copyright": "Credits to Reaper Design",
-		"collections": "amoled,minimal"
-	},
-	{
-		"name": "minimal005",
-		"author": "Emon	 Saqibh",
-		"url": "https://i.ibb.co/WV5kxYR/minimal-midcloud-YBG-01.png",
-		"thumbnail": "https://i.ibb.co/WV5kxYR/minimal-midcloud-YBG-01.png",
-		"collections": "minimal"
-	},
-	{
-		"name": "minimal006",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/phWqMnF/minimal-midcloud-Y-Black-01.png",
-		"thumbnail": "https://i.ibb.co/phWqMnF/minimal-midcloud-Y-Black-01.png",
-		"collections": "amoled,minimal"
-	},
-	{
-		"name": "minimal007",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/FKPcQbw/minimal-midcloud-OBG-01.png",
-		"thumbnail": "https://i.ibb.co/FKPcQbw/minimal-midcloud-OBG-01.png",
-		"copyright": "Reaper Design",
-		"collections": "minimal"
-	},
-	{
-		"name": "minimal008",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/xfmm1Ks/minimal-midcloud-O-Black-01.png",
-		"thumbnail": "https://i.ibb.co/xfmm1Ks/minimal-midcloud-O-Black-01.png",
-		"collections": "amoled,minimal"
-	},
-	{
-		"name": "scenery001",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/NyLrWgw/winter-aura-01.png",
-		"thumbnail": "https://i.ibb.co/NyLrWgw/winter-aura-01.png",
-		"collections": "scenery"
-	},
-	{
-		"name": "scenery002",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/2j6VZQT/desert-dusk-01.png",
-		"thumbnail": "https://i.ibb.co/2j6VZQT/desert-dusk-01.png",
-		"collections": "scenery"
-	},
-	{
-		"name": "outline001",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/Jmmdwt1/outline-coffee-01.png",
-		"thumbnail": "https://i.ibb.co/Jmmdwt1/outline-coffee-01.png",
-		"collections": "outline"
-	},
-	{
-		"name": "outline003",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/wQW7vWJ/outline-pacman-yellow-01.png",
-		"thumbnail": "https://i.ibb.co/wQW7vWJ/outline-pacman-yellow-01.png",
-		"collections": "outline"
-	},
-	{
-		"name": "fluidic001",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/mcqLtbJ/purple-murcury-01.png",
-		"thumbnail": "https://i.ibb.co/mcqLtbJ/purple-murcury-01.png",
-		"collections": "fluidic"
-	},
-	{
-		"name": "fluidic002",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/fxHbbg9/pebble-01-01.png",
-		"thumbnail": "https://i.ibb.co/fxHbbg9/pebble-01-01.png",
-		"collections": "fluidic"
-	},
-	{
-		"name": "fluidic004",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/RyG81Fv/minimal-spacer02-01.png",
-		"thumbnail": "https://i.ibb.co/RyG81Fv/minimal-spacer02-01.png",
-		"collections": "fluidic"
-	},
-	{
-		"name": "fluidic005",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/jkj1NHK/minimal-spacer-01.png",
-		"thumbnail": "https://i.ibb.co/jkj1NHK/minimal-spacer-01.png",
-		"collections": "fluidic"
-	},
-	{
-		"name": "fluidic006",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/VV1gpPm/colorwave-mix-03-01.png",
-		"thumbnail": "https://i.ibb.co/VV1gpPm/colorwave-mix-03-01.png",
-		"collections": "fluidic"
-	},
-	{
-		"name": "fluidic007",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/9rqYk64/colorwave-mix-02-01.png",
-		"thumbnail": "https://i.ibb.co/9rqYk64/colorwave-mix-02-01.png",
-		"collections": "fluidic"
-	},
-	{
-		"name": "fluidic008",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/3M8P6ZB/colorwave-mix-01.png",
-		"thumbnail": "https://i.ibb.co/3M8P6ZB/colorwave-mix-01.png",
-		"collections": "fluidic"
-	},
-	{
-		"name": "shape015",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
-		"thumbnail": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
-		"collections": "shapes"
-	},
-	{
-		"name": "minimal009",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/6J87PC3/minimal-girl-hair-01.png",
-		"thumbnail": "https://i.ibb.co/6J87PC3/minimal-girl-hair-01.png",
-		"collections": "minimal"
-	},
-	{
-		"name": "minimal010",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/k0RSCFQ/underwater-girl-blue-alt-01.png",
-		"thumbnail": "https://i.ibb.co/k0RSCFQ/underwater-girl-blue-alt-01.png",
-		"collections": "minimal"
-	},
-	{
-		"name": "minimal011",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
-		"thumbnail": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
-		"collections": "minimal"
-	},
-	{
-		"name": "shape001",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
-		"thumbnail": "https://i.ibb.co/1fJx6x0/blue-red-circle-shape-01.png",
-		"collections": "shapes"
-	}
+  {
+    "name": "minimal011",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
+    "thumbnail": "https://i.ibb.co/k32QXwz/underwater-girl-or-alt-01.png",
+    "dimensions": "1280x2550",
+    "copyright": "Reaper Design",
+    "collections": "minimal"
+  },
+  {
+    "name": "minimal009",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/6J87PC3/minimal-girl-hair-01.png",
+    "collections": "minimal"
+  },
+  {
+    "name": "minimal001",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/P9GQpGh/colorwave-purple-01.png",
+    "dimensions": "1280x2550",
+    "collections": "fluidic",
+    "downloadable": true
+  },
+  {
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/Cshnfqh/colorwave-purple-dark-01.png",
+    "name": "minimal002",
+    "dimensions": "1280x2550",
+    "copyright": "Reaper Design",
+    "collections": "AMOLED,fluidic"
+  },
+  {
+    "name": "minimal003",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/nmg93HN/minimal-magenda-party-02-01.png",
+    "thumbnail": "https://i.ibb.co/nmg93HN/minimal-magenda-party-02-01.png",
+    "dimensions": "1280x2550",
+    "copyright": "Reaper Design",
+    "collections": "minimal",
+    "featured": true
+  },
+  {
+    "name": "minimal004",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/D8Hjnrb/minimal-magenda-party-dark-01.png",
+    "thumbnail": "https://i.ibb.co/D8Hjnrb/minimal-magenda-party-dark-01.png",
+    "collections": "minimal,AMOLED"
+  },
+  {
+    "name": "minimal005",
+    "author": "wallsplash",
+    "url": "https://i.ibb.co/WV5kxYR/minimal-midcloud-YBG-01.png",
+    "thumbnail": "https://i.ibb.co/WV5kxYR/minimal-midcloud-YBG-01.png",
+    "collections": "minimal"
+  },
+  {
+    "name": "minimal006",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/phWqMnF/minimal-midcloud-Y-Black-01.png",
+    "thumbnail": "https://i.ibb.co/phWqMnF/minimal-midcloud-Y-Black-01.png",
+    "collections": "minimal,AMOLED"
+  },
+  {
+    "name": "minimal007",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/FKPcQbw/minimal-midcloud-OBG-01.png",
+    "thumbnail": "https://i.ibb.co/FKPcQbw/minimal-midcloud-OBG-01.png",
+    "collections": "minimal"
+  },
+  {
+    "name": "minimal008",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/xfmm1Ks/minimal-midcloud-O-Black-01.png",
+    "thumbnail": "https://i.ibb.co/xfmm1Ks/minimal-midcloud-O-Black-01.png",
+    "collections": "minimal,AMOLED"
+  },
+  {
+    "name": "fluidic001",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675428-3026e300-c799-11ea-9271-37d2748e286b.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675428-3026e300-c799-11ea-9271-37d2748e286b.png",
+    "collections": "fluidic"
+  },
+  {
+    "name": "fluidic002",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675434-31f0a680-c799-11ea-81aa-91ebf5cd9ae9.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675434-31f0a680-c799-11ea-81aa-91ebf5cd9ae9.png",
+    "collections": "fluidic,AMOLED"
+  },
+  {
+    "name": "fluidic003",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675438-3321d380-c799-11ea-9447-7bbbeee09c62.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675438-3321d380-c799-11ea-9447-7bbbeee09c62.png",
+    "collections": "fluidic"
+  },
+  {
+    "name": "fluidic004",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675441-33ba6a00-c799-11ea-9bc8-4a0b8d54b763.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675441-33ba6a00-c799-11ea-9bc8-4a0b8d54b763.png",
+    "collections": "fluidic"
+  },
+  {
+    "name": "fluidic005",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675445-34530080-c799-11ea-9eb1-87d09f80e88d.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675445-34530080-c799-11ea-9eb1-87d09f80e88d.png",
+    "collections": "fluidic"
+  },
+  {
+    "name": "fluidic006",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675446-34eb9700-c799-11ea-9421-a6900fd619de.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675446-34eb9700-c799-11ea-9421-a6900fd619de.png",
+    "collections": "fluidic"
+  },
+  {
+    "name": "fluidic007",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675446-34eb9700-c799-11ea-9421-a6900fd619de.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675446-34eb9700-c799-11ea-9421-a6900fd619de.png",
+    "collections": "fluidic"
+  },
+  {
+    "name": "fluidic008",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675450-35842d80-c799-11ea-9448-612ba2c45068.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675450-35842d80-c799-11ea-9448-612ba2c45068.png",
+    "collections": "fluidic"
+  },
+  {
+    "name": "fluidic009",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675451-361cc400-c799-11ea-8dfa-b582ca75d3fa.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675451-361cc400-c799-11ea-8dfa-b582ca75d3fa.png",
+    "collections": "fluidic,AMOLED"
+  },
+  {
+    "name": "fluidic010",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87675458-374df100-c799-11ea-8204-8edd783a0cda.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87675458-374df100-c799-11ea-8204-8edd783a0cda.png",
+    "collections": "fluidic"
+  },
+  
 ]
