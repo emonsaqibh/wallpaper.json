@@ -108,18 +108,20 @@
   {
     "name": "minimal001",
     "author": "Emon Saqibh",
-    "url": "https://i.ibb.co/P9GQpGh/colorwave-purple-01.png",
-    "dimensions": "1280x2550",
-    "collections": "fluidic",
-    "downloadable": true
-  },
-  {
-    "author": "Emon Saqibh",
-    "url": "https://i.ibb.co/Cshnfqh/colorwave-purple-dark-01.png",
-    "name": "minimal002",
+    "url": "https://user-images.githubusercontent.com/68001608/87708542-b7d61700-c7c4-11ea-854e-30669096c39e.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87708671-e5bb5b80-c7c4-11ea-90c0-8dde1f3b8961.png",
     "dimensions": "1280x2550",
     "copyright": "Reaper Design",
-    "collections": "AMOLED,fluidic"
+    "collections": "minimal"
+  },
+{
+    "name": "minimal02",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/87708550-ba387100-c7c4-11ea-9c47-022b485a109c.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/87708669-e522c500-c7c4-11ea-8c3d-1e92d41df6c8.png",
+    "dimensions": "1280x2550",
+    "copyright": "Reaper Design",
+    "collections": "minimal"
   },
   {
     "name": "minimal003",
