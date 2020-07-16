@@ -146,11 +146,10 @@
     "collections": "fluidic"
   },
   {
-		"name": "shape015",
-		"author": "Emon Saqibh",
-		"url": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
-		"thumbnail": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
-		"collections": "shapes"
-	}
-  
+    "name": "shape015",
+    "author": "Emon Saqibh",
+    "url": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
+    "thumbnail": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
+    "collections": "shapes"
+  }
 ]
