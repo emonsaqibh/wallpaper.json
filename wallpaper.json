@@ -77,6 +77,41 @@
     "collections": "blended"
   },
   {
+    "name": "oled001",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89205107-ff3c1000-d5d8-11ea-9746-43e9e04d4e40.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89205502-a8830600-d5d9-11ea-8c77-3be7ed17e8ed.png",
+    "collections": "AMOLED"
+  },
+  {
+    "name": "oled002",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89205114-019e6a00-d5d9-11ea-8ee3-4e92d80495f2.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89205505-a9b43300-d5d9-11ea-8e58-531150b2bb28.png",
+    "collections": "AMOLED"
+  },
+  {
+    "name": "oled003",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89205115-02370080-d5d9-11ea-9ed9-593d8d91a7f3.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89205510-a9b43300-d5d9-11ea-9e92-5fac143db1be.png",
+    "collections": "AMOLED"
+  },
+  {
+    "name": "oled004",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89205122-0400c400-d5d9-11ea-84ae-d993f5d29ff9.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89205511-aa4cc980-d5d9-11ea-9d0a-30b353433249.png",
+    "collections": "AMOLED"
+  },
+  {
+    "name": "oled005",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89205129-06631e00-d5d9-11ea-9520-64219a594f45.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89205514-ab7df680-d5d9-11ea-8c1b-81873e8ce606.png",
+    "collections": "AMOLED"
+  },
+  {
     "name": "pattern018",
     "author": "Emon Saqibh",
     "url": "https://user-images.githubusercontent.com/68001608/89200348-b3399d00-d5d1-11ea-8473-9b9c496a1e78.png",
