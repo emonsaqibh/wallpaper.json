@@ -279,6 +279,34 @@
     "thumbnail": "https://user-images.githubusercontent.com/68001608/87818188-00a4d300-c88c-11ea-969e-c4e018d47a0e.png",
     "collections": "pattern"
   },
+   {
+    "name": "shapes014",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89202709-2d1f5580-d5d5-11ea-92e0-0a1e10e27fa1.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89202112-4a075900-d5d4-11ea-9797-5d4dd8a2a19f.png",
+    "collections": "shapes,AMOLED"
+  },
+   {
+    "name": "shapes013",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89202704-2c86bf00-d5d5-11ea-9e71-75e8c100f242.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89202108-483d9580-d5d4-11ea-9eec-580b069d78ef.png",
+    "collections": "shapes,AMOLED"
+  },
+  {
+    "name": "shapes012",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89202701-2bee2880-d5d5-11ea-9496-bef54a661e6b.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89202105-470c6880-d5d4-11ea-8044-e4b219925182.png",
+    "collections": "shapes,AMOLED"
+  },
+   {
+    "name": "shapes011",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89202699-2b559200-d5d5-11ea-883c-e7b803f1b6be.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89202096-45db3b80-d5d4-11ea-94d0-7973624c8e71.png",
+    "collections": "shapes,AMOLED"
+  },
   {
     "name": "shapes001",
     "author": "Emon Saqibh",
@@ -638,7 +666,7 @@
     "collections": "outline"
   },
   {
-    "name": "shape015",
+    "name": "shape010",
     "author": "Emon Saqibh",
     "url": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
     "thumbnail": "https://i.ibb.co/zfpWpjy/abstract001-dark-01.png",
