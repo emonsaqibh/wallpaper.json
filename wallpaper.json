@@ -77,6 +77,27 @@
     "collections": "blended"
   },
   {
+    "name": "pattern018",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89200348-b3399d00-d5d1-11ea-8473-9b9c496a1e78.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89200822-61dddd80-d5d2-11ea-8469-0a04e6cbba94.png",
+    "collections": "pattern"
+  },
+   {
+    "name": "pattern017",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89200345-b2087000-d5d1-11ea-9894-af39bca908c9.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89200820-61dddd80-d5d2-11ea-8c47-0aa5dcf585d3.png",
+    "collections": "pattern,AMOLED"
+  },
+  {
+    "name": "pattern016",
+    "author": "Emon Saqibh",
+    "url": "https://user-images.githubusercontent.com/68001608/89200339-b03eac80-d5d1-11ea-9814-5fec7fbad962.png",
+    "thumbnail": "https://user-images.githubusercontent.com/68001608/89200817-60141a00-d5d2-11ea-9ae5-cfac8b1cd955.png",
+    "collections": "pattern"
+  },
+  {
     "name": "pattern007",
     "author": "Emon Saqibh",
     "url": "https://user-images.githubusercontent.com/68001608/89026456-8f185a80-d34a-11ea-802b-cac41f974dd7.png",
